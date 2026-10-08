@@ -16,3 +16,6 @@ Progress is stored in localStorage per browser/origin and resets at the local ca
 
 ## Marriage & family additions
 The family category includes Qur’an 25:74, the existing prayer for children (3:38), and a personal Yasin reading goal. All 83 Arabic verses of Yasin were retrieved from Quran.com, with consecutive verse numbers verified. The reader links to Muhammad Sodiq Muhammad Yusuf’s Uzbek meaning (translation 55, verified on Quran.com). One Yasin count means one completed reading. No special marriage benefit, guaranteed outcome, or superiority for marriage is claimed.
+
+## Combined bedtime tasbeeh
+The single 100-recitation plan follows Sahih al-Bukhari 5361: 33 Subhanallah, 33 Alhamdulillah, then 34 Allahu akbar at bedtime. The counter displays each stage, switches automatically, preserves progress, and stops at 100. Undo crosses stage boundaries correctly. Counts are fixed for this plan; resetting starts a new complete sequence.
