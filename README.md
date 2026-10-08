@@ -13,3 +13,6 @@ This is a small curated collection, not an exhaustive scholarly review. Referenc
 Prescribed daily counts and personal goals are visibly distinguished. Personal goals are adjustable and never imply special religious merit. No guaranteed wealth, fertility, or other worldly outcome is claimed. Counts of 4,444 Salat Nariya and 1,001 Al-Ikhlas are not presented as established Sunnah.
 
 Progress is stored in localStorage per browser/origin and resets at the local calendar date; it does not sync across devices. Clearing browser storage removes progress. No secret is needed to run the site.
+
+## Marriage & family additions
+The family category includes Qur’an 25:74, the existing prayer for children (3:38), and a personal Yasin reading goal. All 83 Arabic verses of Yasin were retrieved from Quran.com, with consecutive verse numbers verified. The reader links to Muhammad Sodiq Muhammad Yusuf’s Uzbek meaning (translation 55, verified on Quran.com). One Yasin count means one completed reading. No special marriage benefit, guaranteed outcome, or superiority for marriage is claimed.
