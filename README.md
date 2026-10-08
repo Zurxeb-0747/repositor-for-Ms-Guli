@@ -19,3 +19,6 @@ The family category includes Qur’an 25:74, the existing prayer for children (3
 
 ## Combined bedtime tasbeeh
 The single 100-recitation plan follows Sahih al-Bukhari 5361: 33 Subhanallah, 33 Alhamdulillah, then 34 Allahu akbar at bedtime. The counter displays each stage, switches automatically, preserves progress, and stops at 100. Undo crosses stage boundaries correctly. Counts are fixed for this plan; resetting starts a new complete sequence.
+
+## Optional personal practices
+Includes separate 40- and 80-repeat istighfar plans and a 4,444-repeat Salatun Nariya plan. The formula of Nariya and its interpretation are disputed; neither its wording nor 4,444 is attributed to an authentic prophetic prescription. Qur’an 33:56 is linked only for salawat generally. Evidence notices appear on cards and before the counter. Yasin is labeled as a personal reading plan while hoping to marry, without a claimed authentic special marriage benefit. No worldly outcome is guaranteed.
